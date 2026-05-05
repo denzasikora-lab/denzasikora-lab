@@ -1,4 +1,4 @@
-# Hi, I’m Egor Fedosov 👋
+# Hi 👋
 
 **Senior Software AI Engineer**  
 Senior Backend / AI Engineer with 8+ years of experience in Python, production microservices, and AI/LLM systems.
@@ -12,9 +12,9 @@ I build backend platforms, AI workflows, and data-heavy systems that work in pro
 ## What I do
 
 - Backend engineering for high-load and data-driven products
-- AI/LLM systems: RAG, agent workflows, prompt orchestration, structured generation
+- AI/LLM systems: RAG/FT, agent workflows, prompt orchestration, structured generation
 - Distributed processing, ETL/ELT, event-driven architecture
-- Microservices, APIs, DevOps, observability, and performance optimization
+- Microservices, APIs, DevOps/MLOps, observability, and performance optimization
 - Product development from prototype to production deployment
 
 ---
