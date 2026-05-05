@@ -14,8 +14,6 @@ I build backend platforms, AI workflows, and data-heavy systems that work in pro
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black" alt="ReactJS" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/Blueprint-1E90FF?style=flat-square&logo=blockchaindotcom&logoColor=white" alt="Blueprint" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LLM-111827?style=flat-square&logo=openai&logoColor=white" alt="LLM" />
