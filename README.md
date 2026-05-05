@@ -1,7 +1,7 @@
 # Hi, I'm'E 👋
 
 **Senior Software AI Engineer**  
-Senior Backend / AI Engineer with 8+ years of experience in Python, production microservices, and AI/LLM systems.
+Backend Developer/ AI Engineer with 8+ years of experience in Python, production microservices, and AI/LLM systems.
 
 I build backend platforms, AI workflows, and data-heavy systems that work in production: from FastAPI services and distributed pipelines to RAG, multi-agent orchestration, and Web3 integrations. I also have commercial startup experience as a co-founder and CTO, where I shipped end-to-end product features across backend, frontend, infrastructure, and AI.
 
@@ -52,7 +52,7 @@ I build backend platforms, AI workflows, and data-heavy systems that work in pro
 
 ## Stack snapshot
 
-`Python` · `FastAPI` · `TypeScript` · `ReactJS` · `Vite` · `Vue` · `Nuxt` · `Blueprint` · `LangChain` · `LLM` · `RAG` · `Playwright` · `Kafka` · `PySpark` · `ClickHouse` · `Polars` · `AWS` · `S3`
+`Python` · `FastAPI` · `TypeScript` · `ReactJS` · `Vite` · `Blueprint` · `LangChain` · `LLM` · `RAG` · `Playwright` · `Kafka` · `PySpark` · `ClickHouse` · `Polars` · `AWS` · `S3`
 
 
 ---
