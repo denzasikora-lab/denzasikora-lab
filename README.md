@@ -160,7 +160,7 @@ Certificate in Design Patterns (ID: 0106-00750)
 ## Contact
 
 - **Email:** denzasikora@gmail.com
-- **Phone:** +34 631 942 871
+- **Phone:** https://wa.me/34631942871?text=cv
 - **LinkedIn:** https://linkedin.com/in/eggor-fedoosv-424406404
 - **GitHub:** https://github.com/denzasikora-lab
 
