@@ -1,20 +1,44 @@
-**# Hi 👋
+# Hi, I’m Egor Fedosov 👋
 
 **Senior Software AI Engineer**  
 Senior Backend / AI Engineer with 8+ years of experience in Python, production microservices, and AI/LLM systems.
 
 I build backend platforms, AI workflows, and data-heavy systems that work in production: from FastAPI services and distributed pipelines to RAG, multi-agent orchestration, and Web3 integrations. I also have commercial startup experience as a co-founder and CTO, where I shipped end-to-end product features across backend, frontend, infrastructure, and AI.
 
-[LinkedIn](https://linkedin.com/in/eggor-fedoosv-424406404) • [GitHub](https://github.com/denzasikora-lab) • +34631942871 • denzasikora@gmail.com
+
+<p align="center">`Python` • `FastAPI` • `TypeScript` • `ReactJS` • `Vite` • `Blueprint` • `LangChain` • `LLM` • `RAG` • `Fine-tuning` • `Playwright` • `NoSQL` • `AWS` • `S3` • `Kafka` • `PySpark` • `ClickHouse` • `Polars`</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Blueprint-1E90FF?style=flat-square&logo=blockchaindotcom&logoColor=white" alt="Blueprint" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LLM-111827?style=flat-square&logo=openai&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&logo=haystack&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Fine--tuning-0F172A?style=flat-square&logo=googlescholar&logoColor=white" alt="Fine-tuning" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/NoSQL-4B5563?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" alt="Polars" />
+</p>
 
 ---
 
 ## What I do
 
 - Backend engineering for high-load and data-driven products
-- AI/LLM systems: RAG/FT, agent workflows, prompt orchestration, structured generation
+- AI/LLM systems: RAG, agent workflows, prompt orchestration, structured generation
 - Distributed processing, ETL/ELT, event-driven architecture
-- Microservices, APIs, DevOps/MLOps, observability, and performance optimization
+- Microservices, APIs, DevOps, observability, and performance optimization
 - Product development from prototype to production deployment
 
 ---
@@ -25,6 +49,13 @@ I build backend platforms, AI workflows, and data-heavy systems that work in pro
 - Designing LLM workflows with logging, evaluation, and tool/function calling
 - Improving retrieval quality with embeddings, vector search, and fine-tuning
 - Shipping maintainable services with strong testing, CI/CD, and monitoring
+
+---
+
+## Stack snapshot
+
+`Python` · `FastAPI` · `TypeScript` · `ReactJS` · `Vite` · `Vue` · `Nuxt` · `Blueprint` · `LangChain` · `LLM` · `RAG` · `Playwright` · `Kafka` · `PySpark` · `ClickHouse` · `Polars` · `AWS` · `S3`
+
 
 ---
 
@@ -145,4 +176,3 @@ Certificate in Design Patterns (ID: 0106-00750)
 ---
 
 > Building reliable AI systems, production backend platforms, and products that scale.
-**
