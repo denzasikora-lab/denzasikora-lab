@@ -6,7 +6,7 @@ Senior Backend / AI Engineer with 8+ years of experience in Python, production m
 I build backend platforms, AI workflows, and data-heavy systems that work in production: from FastAPI services and distributed pipelines to RAG, multi-agent orchestration, and Web3 integrations. I also have commercial startup experience as a co-founder and CTO, where I shipped end-to-end product features across backend, frontend, infrastructure, and AI.
 
 
-<p align="center">`Python` • `FastAPI` • `TypeScript` • `ReactJS` • `Vite` • `Blueprint` • `LangChain` • `LLM` • `RAG` • `Fine-tuning` • `Playwright` • `NoSQL` • `AWS` • `S3` • `Kafka` • `PySpark` • `ClickHouse` • `Polars`</p>
+`Python` • `FastAPI` • `TypeScript` • `ReactJS` • `Vite` • `Blueprint` • `LangChain` • `LLM` • `RAG` • `Fine-tuning` • `Playwright` • `NoSQL` • `AWS` • `S3` • `Kafka` • `PySpark` • `ClickHouse` • `Polars`
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
