@@ -1,11 +1,11 @@
-# Hi 👋
+**# Hi 👋
 
 **Senior Software AI Engineer**  
 Senior Backend / AI Engineer with 8+ years of experience in Python, production microservices, and AI/LLM systems.
 
 I build backend platforms, AI workflows, and data-heavy systems that work in production: from FastAPI services and distributed pipelines to RAG, multi-agent orchestration, and Web3 integrations. I also have commercial startup experience as a co-founder and CTO, where I shipped end-to-end product features across backend, frontend, infrastructure, and AI.
 
-[LinkedIn](https://linkedin.com/in/eggor-fedoosv-424406404) • [GitHub](https://github.com/denzasikora-lab) • +34 631 942 871 • denzasikora@gmail.com
+[LinkedIn](https://linkedin.com/in/eggor-fedoosv-424406404) • [GitHub](https://github.com/denzasikora-lab) • +34631942871 • denzasikora@gmail.com
 
 ---
 
@@ -145,3 +145,4 @@ Certificate in Design Patterns (ID: 0106-00750)
 ---
 
 > Building reliable AI systems, production backend platforms, and products that scale.
+**
