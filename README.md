@@ -1,4 +1,4 @@
-# Hi, I’m Egor Fedosov 👋
+# Hi, I'm'E 👋
 
 **Senior Software AI Engineer**  
 Senior Backend / AI Engineer with 8+ years of experience in Python, production microservices, and AI/LLM systems.
