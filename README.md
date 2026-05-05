@@ -167,3 +167,5 @@ Certificate in Design Patterns (ID: 0106-00750)
 ---
 
 > Building reliable AI systems, production backend platforms, and products that scale.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=denzasikora-lab)](https://github.com/denzasikora-lab/github-profile-trophy)
