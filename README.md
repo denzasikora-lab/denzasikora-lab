@@ -50,13 +50,6 @@ I build backend platforms, AI workflows, and data-heavy systems that work in pro
 
 ---
 
-## Stack snapshot
-
-`Python` · `FastAPI` · `TypeScript` · `ReactJS` · `Vite` · `Blueprint` · `LangChain` · `LLM` · `RAG` · `Playwright` · `Kafka` · `PySpark` · `ClickHouse` · `Polars` · `AWS` · `S3`
-
-
----
-
 ## Selected experience
 
 ### AI-Constructor — Co-Founder & CTO
