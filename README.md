@@ -97,7 +97,7 @@ I build backend platforms, AI workflows, and data-heavy systems that work in pro
 ## Tech stack
 
 ### Languages
-Python 3.10+, Go, JavaScript, TypeScript, Dart, C, C++, C#, Func, Tolk, R
+Python 3.10+, Go, Nodejs/JavaScript/TypeScript, Dart, C, C++, C#, Func, Tolk, R
 
 ### Backend
 FastAPI, Django REST Framework, SQLAlchemy, Alembic, asyncio, aiohttp, Celery, Aiogram, Flask, CherryPy, PyQt
