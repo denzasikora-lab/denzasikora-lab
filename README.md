@@ -1,6 +1,9 @@
 # Hi, I'm'E 👋
 
 **Senior Software AI Engineer**  
+<!---Пример кода-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
 Backend Developer/ AI Engineer with 8+ years of experience in Python, production microservices, and AI/LLM systems.
 
 I build backend platforms, AI workflows, and data-heavy systems that work in production: from FastAPI services and distributed pipelines to RAG, multi-agent orchestration, and Web3 integrations. I also have commercial startup experience as a co-founder and CTO, where I shipped end-to-end product features across backend, frontend, infrastructure, and AI.
