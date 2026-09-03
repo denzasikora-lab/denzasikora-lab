@@ -165,6 +165,15 @@ Certificate in Design Patterns (ID: 0106-00750)
 - **GitHub:** https://github.com/denzasikora-lab
 
 ---
+PR:
+https://github.com/antiwork/gumroad/pull/7371 
+https://github.com/home-assistant/android/pull/7367 
+https://github.com/denzasikora-lab/gumroad/pull/1
+https://github.com/datahub-project/datahub-skills/pull/116 
+https://github.com/ssurekumar01111-hue/evidence-gate/pull/1  
+https://github.com/ssurekumar01111-hue/cinema-pilot/pull/5 
+
+
 
 > Building reliable AI systems, production backend platforms, and products that scale.
 
