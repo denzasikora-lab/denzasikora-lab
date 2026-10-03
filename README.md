@@ -172,6 +172,8 @@ https://github.com/denzasikora-lab/gumroad/pull/1
 https://github.com/datahub-project/datahub-skills/pull/116 
 https://github.com/ssurekumar01111-hue/evidence-gate/pull/1  
 https://github.com/ssurekumar01111-hue/cinema-pilot/pull/5 
+https://github.com/Toki-bio/MSA-viewer/pull/16
+https://github.com/ddenvy/Experimento/pull/1
 
 
 
